@@ -11,3 +11,7 @@ I use quantitative methods to study how people, firms, and institutions make dec
 
 ## 🛠 Tools
 R (ggplot2, tmap, tidyverse) · Stata · Git · Swedish register data · Panel econometrics
+
+## 📬 Contact
+LinkedIn: linkedin.com/in/christienick · Lund University: portal.research.lu.se/en/persons/nick-christie
+
